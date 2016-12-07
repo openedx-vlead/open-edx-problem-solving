@@ -2,6 +2,7 @@
     "course/course": {
         "advertised_start": "Anytime", 
         "cert_html_view_enabled": true, 
+        "course_image": "IIITH-Problem Solving.JPG", 
         "discussion_topics": {
             "General": {
                 "id": "course"
@@ -13,7 +14,7 @@
         }, 
         "language": "en", 
         "learning_info": [], 
-        "start": "2016-08-25T18:23:00Z", 
+        "start": "2016-09-29T18:23:00Z", 
         "tabs": [
             {
                 "name": "Home", 
@@ -39,6 +40,12 @@
                 "name": "Progress", 
                 "type": "progress"
             }
-        ]
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/course.xml", 
+                "course/course.xml"
+            ]
+        }
     }
 }

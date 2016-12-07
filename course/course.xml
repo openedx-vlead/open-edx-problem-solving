@@ -1,4 +1,4 @@
-<course advertised_start="Anytime" cert_html_view_enabled="true" display_name="Problem Solving" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-08-25T18:23:00+00:00&quot;">
+<course advertised_start="Anytime" cert_html_view_enabled="true" course_image="IIITH-Problem Solving.JPG" display_name="Problem Solving" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-29T18:23:00+00:00&quot;">
   <chapter url_name="4f701767993f4932b590b189628ef7ef"/>
   <chapter url_name="0ff28ffc4f214f959164b3f5963326e7"/>
   <chapter url_name="2793edf0901f41f09926dccd9b1d2156"/>
@@ -10,5 +10,6 @@
   <chapter url_name="4043ec316ac7478e836e1757eeb8eede"/>
   <chapter url_name="1654246b555e4d06872227b3eb6dc175"/>
   <chapter url_name="e56f51b91fc1443ea569c01854d5e412"/>
+  <chapter url_name="0a82507c8d7c44c3832f717640332d2b"/>
   <wiki slug="IIIT-Hyderabad.CSE04.Anytime"/>
 </course>
