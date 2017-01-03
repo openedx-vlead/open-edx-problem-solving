@@ -1,0 +1,83 @@
+<problem display_name="Multiple Choice" markdown="1. The execution of a loop typically starts with:&#10;(x) initialization statements&#10;( ) Loop body&#10;( ) test condition&#10;( ) update statements&#10;&#10;2. The break statement is used to exit from:&#10;( ) initialization statements&#10;(x) Loop body&#10;( ) test condition&#10;( ) update statements&#10;&#10;3. A do-while loop is useful when we want that the statements within the loop must be executed&#10;( ) only once&#10;(x) At Least Once&#10;( ) More than once&#10;( ) None of the above&#10;&#10;4. In what sequence the initialization, testing and execution of body is done in a do-while loop&#10;(x) Initialization, execution of body, testing&#10;( ) Execution of body, initialization, testing&#10;( ) Initialization, testing, execution of body&#10;( ) None of the above&#10;&#10;5. Which looping process checks the test condition at the end of the loop?&#10;( ) for&#10;( ) while&#10;(x) do-while&#10;( ) No looping peocess check condition at the end&#10;&#10;6. A continue statement causes execution to skip to:&#10;( ) the end of the program&#10;( ) the first statement after the loop&#10;( ) the statement following the continue statement&#10;(x) the next iteration of the loop&#10;&#10;7. The statement i++; is equivalent to:&#10;( ) i = i + i;&#10;(x) i = i + 1;&#10;( ) i = i - 1;&#10;( ) i - - ;&#10;&#10;8. Another word for &quot;looping&quot; is:&#10;( ) recapitulation &#10;( ) tintinabulation &#10;(x) iteration&#10;( ) reiteration&#10;&#10;9. Which looping process is best used when the number of iterations is known?&#10;(x) for&#10;( ) while&#10;( ) do-while&#10;( ) all of the above">
+  <p>1. The execution of a loop typically starts with:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">initialization statements</choice>
+      <choice correct="false">Loop body</choice>
+      <choice correct="false">test condition</choice>
+      <choice correct="false">update statements</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. The break statement is used to exit from:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">initialization statements</choice>
+      <choice correct="true">Loop body</choice>
+      <choice correct="false">test condition</choice>
+      <choice correct="false">update statements</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. A do-while loop is useful when we want that the statements within the loop must be executed</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">only once</choice>
+      <choice correct="true">At Least Once</choice>
+      <choice correct="false">More than once</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. In what sequence the initialization, testing and execution of body is done in a do-while loop</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Initialization, execution of body, testing</choice>
+      <choice correct="false">Execution of body, initialization, testing</choice>
+      <choice correct="false">Initialization, testing, execution of body</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. Which looping process checks the test condition at the end of the loop?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">for</choice>
+      <choice correct="false">while</choice>
+      <choice correct="true">do-while</choice>
+      <choice correct="false">No looping peocess check condition at the end</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>6. A continue statement causes execution to skip to:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">the end of the program</choice>
+      <choice correct="false">the first statement after the loop</choice>
+      <choice correct="false">the statement following the continue statement</choice>
+      <choice correct="true">the next iteration of the loop</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>7. The statement i++; is equivalent to:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">i = i + i;</choice>
+      <choice correct="true">i = i + 1;</choice>
+      <choice correct="false">i = i - 1;</choice>
+      <choice correct="false">i - - ;</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>8. Another word for "looping" is:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">recapitulation</choice>
+      <choice correct="false">tintinabulation</choice>
+      <choice correct="true">iteration</choice>
+      <choice correct="false">reiteration</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>9. Which looping process is best used when the number of iterations is known?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">for</choice>
+      <choice correct="false">while</choice>
+      <choice correct="false">do-while</choice>
+      <choice correct="false">all of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>
