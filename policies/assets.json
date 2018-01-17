@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "CSE04", 
+            "course": "cse04", 
             "name": "IIITH-Problem_Solving.JPG", 
-            "org": "IIIT-Hyderabad", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "IIITH-Problem Solving.JPG", 
-        "filename": "asset-v1:IIIT-Hyderabad+CSE04+Anytime+type@asset+block@IIITH-Problem_Solving.JPG", 
+        "filename": "asset-v1:Virtual-Labs+cse04+Anytime+type@asset+block@IIITH-Problem_Solving.JPG", 
         "import_path": "IIITH-Problem Solving.JPG", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIIT-Hyderabad", 
-            "CSE04", 
+            "Virtual-Labs", 
+            "cse04", 
             "thumbnail", 
             "IIITH-Problem_Solving-JPG.jpg", 
             null
